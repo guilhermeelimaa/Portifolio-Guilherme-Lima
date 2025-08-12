@@ -5,7 +5,8 @@
 }
 
 /* IMPORTANTE: deixa o body com flex vertical para empurrar footer pro fim */
-html, body {
+html,
+body {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -133,5 +134,5 @@ footer {
   padding: 20px;
   background: #1a3b5d;
   color: white;
-  margin-top: auto; 
+  margin-top: auto;
 }
